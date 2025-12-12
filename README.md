@@ -1,5 +1,7 @@
 # Widget Sales and Margin Analysis
 
+![Invoice Amount and Country Codes](Dashboard-1.png)
+
 ## Project Overview
 This project analyzes the revenue, gross margin, and regional performance of a global widget manufacturer whose products are used widely across Fortune 500 companies. The client sells roughly ten widget varieties through sales teams operating in four geographic regions. Due to years of neglected data processes and controls, the organization lacked clear visibility into customer profitability, product performance, and margin trends.
 
